@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "SQL",
+      "database": "${workspaceFolder:SQLalchemy}/database.db"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
